@@ -8,3 +8,7 @@ body {
     background: rgb(103,103,103);
 background: radial-gradient(circle, rgba(103,103,103,0.9444152661064426) 0%, rgba(23,23,23,1) 100%);
 }
+
+div {
+background-color: aliceblue;    
+}
