@@ -11,4 +11,6 @@ background: radial-gradient(circle, rgba(103,103,103,0.9444152661064426) 0%, rgb
 
 div {
 background-color: aliceblue;    
+font-size: 35px;
+text-align: center;
 }
