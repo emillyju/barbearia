@@ -24,7 +24,7 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: rgb(234, 241, 241);
+    color: rgb(5, 247, 247);
     font-size: 30px;
     text-decoration: rgb(240, 241, 241);
     font-weight: lighter;
@@ -32,7 +32,7 @@ nav a {
 }
 
 nav a:hover {
-    color: aqua;
+    color: rgb(124, 133, 133);
     text-decoration: underline;
 
 }
