@@ -24,8 +24,15 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: azure;
+    color: rgb(240, 243, 243);
     font-size: 30px;
+    text-decoration: rgb(5, 247, 206);
+    font-weight: lighter;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav a:hover {
+
 }
 
 h1 {
