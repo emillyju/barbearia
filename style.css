@@ -45,7 +45,7 @@ h1 {
 
 body {
     background: rgb(103,103,103);
-background: radial-gradient(circle, rgba(103,103,103,0.9444152661064426) 0%, rgb(247, 245, 245) 100%);
+background: radial-gradient(circle, rgba(103,103,103,0.9444152661064426) 0%, rgb(22, 22, 22) 100%);
 }
 
 .texto {
