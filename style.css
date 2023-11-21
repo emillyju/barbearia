@@ -86,4 +86,19 @@ align-items: flex-start;
 border-radius: 15px;
 text-transform: uppercase;
 font-size: 40px;
+box-shadow: 5px 5px #000000;
+}
+
+#item1 {
+    background-image: url(https://images.pexels.com/photos/2014808/pexels-photo-2014808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+
+}
+#item2 {
+    background-image:url(https://images.pexels.com/photos/2809652/pexels-photo-2809652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) ;
+    background-size: cover;
+}
+#item3 {
+    background-image: url(https://images.pexels.com/photos/331989/pexels-photo-331989.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
 }
