@@ -54,3 +54,12 @@ background-color: rgb(141, 137, 137);
 font-size: 35px;
 text-align: center;
 }
+.servico{
+display: flex;
+width:15%;
+height: 290px;
+border:  1px solid #cccccc;
+
+}
+
+]
